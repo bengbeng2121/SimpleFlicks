@@ -9,9 +9,8 @@
     </style>
 
     <style name="AppTheme.NoActionBar" parent="AppTheme">
-        <!-- TODO adding these properties causes errors when build the project -->
-        <!--<item name="windowActionBar">false</item>-->
-        <!--<item name="windowNoTitle">true</item>-->
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
     </style>
 
 </resources>
